@@ -12,7 +12,7 @@ To predict customers who are likely to churn.
 
 
 
-Use of analysis: 
+Use of analysis : 
 Businesses can focus on retaining customers who are likely to churn. A company that can predict churn can take proactive action to retain valuable customers and get ahead of the competition
 
 
